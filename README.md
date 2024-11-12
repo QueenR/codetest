@@ -1,3 +1,10 @@
+change number of columns and rows in the constants file
+/src/constants.ts
+
+Start the project > npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
